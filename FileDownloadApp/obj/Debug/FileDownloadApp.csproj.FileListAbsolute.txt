@@ -1,0 +1,7 @@
+C:\Users\СкоропадИг\source\repos\FileDownloadApp\FileDownloadApp\bin\Debug\FileDownloadApp.exe.config
+C:\Users\СкоропадИг\source\repos\FileDownloadApp\FileDownloadApp\bin\Debug\FileDownloadApp.exe
+C:\Users\СкоропадИг\source\repos\FileDownloadApp\FileDownloadApp\bin\Debug\FileDownloadApp.pdb
+C:\Users\СкоропадИг\source\repos\FileDownloadApp\FileDownloadApp\obj\Debug\FileDownloadApp.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг\source\repos\FileDownloadApp\FileDownloadApp\obj\Debug\FileDownloadApp.exe
+C:\Users\СкоропадИг\source\repos\FileDownloadApp\FileDownloadApp\obj\Debug\FileDownloadApp.pdb
+C:\Users\СкоропадИг\source\repos\FileDownloadApp\FileDownloadApp\obj\Debug\FileDownloadApp.csprojAssemblyReference.cache
