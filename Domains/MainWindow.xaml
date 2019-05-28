@@ -1,0 +1,14 @@
+﻿<Window x:Class="Domains.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Domains"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="518.908">
+    <Grid>
+        <Image Source="morpheus.jpg"/>
+        <Button Content="Download large file" Background="Blue" Foreground="White" Margin="41,313,347,67" Click="BlueButtonClick"/>
+        <Button Content="Make large calculations" Background="Red" Foreground="White" Margin="345,313,25,67" Click="RedButtonClick"/>
+    </Grid>
+</Window>
