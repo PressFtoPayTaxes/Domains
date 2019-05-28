@@ -1,0 +1,7 @@
+C:\Users\СкоропадИг\source\repos\LargeCalculationsApp\LargeCalculationsApp\bin\Debug\LargeCalculationsApp.exe.config
+C:\Users\СкоропадИг\source\repos\LargeCalculationsApp\LargeCalculationsApp\bin\Debug\LargeCalculationsApp.exe
+C:\Users\СкоропадИг\source\repos\LargeCalculationsApp\LargeCalculationsApp\bin\Debug\LargeCalculationsApp.pdb
+C:\Users\СкоропадИг\source\repos\LargeCalculationsApp\LargeCalculationsApp\obj\Debug\LargeCalculationsApp.csprojAssemblyReference.cache
+C:\Users\СкоропадИг\source\repos\LargeCalculationsApp\LargeCalculationsApp\obj\Debug\LargeCalculationsApp.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг\source\repos\LargeCalculationsApp\LargeCalculationsApp\obj\Debug\LargeCalculationsApp.exe
+C:\Users\СкоропадИг\source\repos\LargeCalculationsApp\LargeCalculationsApp\obj\Debug\LargeCalculationsApp.pdb
